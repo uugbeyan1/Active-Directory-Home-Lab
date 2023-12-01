@@ -2,7 +2,7 @@
 
  
 <h2>Description</h2>
-This project consists of a guide to creating an Active Directory Home Lab ulitizing virtual machines. The focus is on establishing a functional Active Directory environment on a personal computer. These snapshots cover some key components such a deploying Windows Server operating systems, configuring domains, and implenting user accounts. A notable aspect of this project is the integration of PowerShell scripting for efficient automation. I provide a snapshot on utlitzing PowerShell to generate and deploy 1,000 users seemlessly on the internal network. This project serves as a resource for someone seeking a brief understanding on Active Directory setup and highlights the role PowerShell in streamlining administrative tasks within the context of a home lab environment. 
+This project consists of a guide to creating an Active Directory Home Lab ulitizing virtual machines. The focus is on establishing a functional Active Directory environment on a personal computer. These snapshots cover some key components such a deploying Windows Server operating systems, configuring domains, and implenting user accounts. A notable aspect of this project is the integration of PowerShell scripting for efficient automation. I provide a snapshot on utilizing PowerShell to generate and deploy 1,000 users seemlessly on the internal network. This project serves as a resource for someone seeking a brief understanding on Active Directory setup and highlights the role PowerShell in streamlining administrative tasks within the context of a home lab environment. 
 <br />
 
 
