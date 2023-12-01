@@ -28,11 +28,11 @@ Rename networks on the Domain Controller for Home Internet and Internal Network:
 <br />
 <br />
 Assign IP address for Internal Network: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/nyTHVhs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Install Active Directory on the Domain Controller:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/l7taOvZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create Domain for Active Directory:  <br/>
