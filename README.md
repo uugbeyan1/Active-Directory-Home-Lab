@@ -19,7 +19,7 @@ This project consists of a guide to creating an Active Directory Home Lab utiliz
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Download Virtual Box and Install Windows 10 ISO: <br/>
+Download Virtual Box and Install Windows 10 ISO on Virtual Machine (Domain Controller): <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -45,7 +45,8 @@ Install Remote Access so the clients on Internal Network can connect to the inte
 <br />
 Set DCHP on Domain Controller so when we create our Internal Network virtual machine it can automatically get an IP address:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<br />
+<br />
 Install Remote Access so the clients on Internal Network can connect to the internet through the Domain Controller:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
