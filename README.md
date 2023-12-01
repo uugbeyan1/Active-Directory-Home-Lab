@@ -24,7 +24,7 @@ Download Virtual Box and Install Windows 10 ISO on the first Virtual Machine (Do
 <br />
 <br />
 Rename networks on the Domain Controller for Home Internet and Internal Network: <br/>
-<img src="https://imgur.com/Qgt46lK.png" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
+<img src="https://imgur.com/JbOd4ia.png" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
 <br />
 <br />
 Assign IP address for Internal Network: <br/>
@@ -52,7 +52,7 @@ Set DCHP on Domain Controller so when we create our second virtual machine it ca
 <br />
 <br />
 Run Powershell script for users on the Active Directory:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/pRJwIlX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create another Virtual Machine to connect Internal Network (CLIENT1), join it to the domain, and log in with one of the user accounts:  <br/>
