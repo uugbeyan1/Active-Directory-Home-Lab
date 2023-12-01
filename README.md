@@ -19,7 +19,7 @@ This project consists of a guide to creating an Active Directory Home Lab utiliz
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Download Virtual Box and Install Windows 10 ISO on Virtual Machine (Domain Controller): <br/>
+Download Virtual Box and Install Windows 10 ISO on the first Virtual Machine (Domain Controller): <br/>
 <img src="https://imgur.com/jGnqwdC" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
 <br />
 <br />
