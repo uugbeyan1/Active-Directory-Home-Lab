@@ -23,7 +23,7 @@ Download Virtual Box and Install Windows 10 ISO on the first Virtual Machine (Do
 <img src="https://imgur.com/jGnqwdC.png" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
 <br />
 <br />
-Rename networks on the Domain Controller for Home Internet and Internal Network:  <br/>
+Rename networks on the Domain Controller for Home Internet and Internal Network: <br/>
 <img src="https://imgur.com/Qgt46lK.png" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
 <br />
 <br />
