@@ -43,11 +43,11 @@ Install Remote Access so the clients on Internal Network can connect to the inte
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Set DCHP on Domain Controller so when we create our Internal Network virtual machine it can automatically get an IP address:  <br/>
+Configure NAT:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Install Remote Access so the clients on Internal Network can connect to the internet through the Domain Controller:  <br/>
+Set DCHP on Domain Controller so when we create our Internal Network virtual machine it can automatically get an IP address:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
