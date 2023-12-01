@@ -51,8 +51,11 @@ Set DCHP on Domain Controller so when we create our second virtual machine it ca
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Run Powershell script for users on the Active Directory:  <br/>
+Run Powershell script for users on the Active Directory: <br/>
 <img src="https://imgur.com/pRJwIlX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ <img src="https://imgur.com/lKBrWxQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create another Virtual Machine to connect Internal Network (CLIENT1), join it to the domain, and log in with one of the user accounts:  <br/>
