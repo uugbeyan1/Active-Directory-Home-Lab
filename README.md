@@ -9,12 +9,12 @@ This project consists of a guide to creating an Active Directory Home Lab utiliz
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Oracle Virtual Box</b>
 
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
+- <b>Oracle Virtual Box</b>
 
 <h2>Program walk-through:</h2>
 
