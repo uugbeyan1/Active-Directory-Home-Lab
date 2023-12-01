@@ -36,15 +36,15 @@ Install Active Directory on the Domain Controller:  <br/>
 <br />
 <br />
 Create Domain for Active Directory:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/3GVmaLW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Install Remote Access so the clients on Internal Network can connect to the internet through the Domain Controller:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/FdNXxIw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Configure NAT:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/YsRJwO2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Set DCHP on Domain Controller so when we create our second virtual machine it can automatically get an IP address:  <br/>
