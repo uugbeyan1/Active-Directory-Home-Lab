@@ -10,7 +10,7 @@ This project consists of a guide to creating an Active Directory Home Lab ulitiz
 
 - <b>PowerShell</b> 
 - <b>Oracle Virtual Box</b>
-- <b>Microsoft 10</b>
+
 
 <h2>Environments Used </h2>
 
