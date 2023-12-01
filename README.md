@@ -47,7 +47,7 @@ Configure NAT:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Set DCHP on Domain Controller so when we create our Internal Network virtual machine it can automatically get an IP address:  <br/>
+Set DCHP on Domain Controller so when we create our second virtual machine it can automatically get an IP address:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
