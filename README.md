@@ -51,7 +51,7 @@ Set DCHP on Domain Controller so when we create our Internal Network virtual mac
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Run Powershell script for Active Directory:  <br/>
+Run Powershell script for users on the Active Directory:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
