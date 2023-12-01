@@ -20,7 +20,7 @@ This project consists of a guide to creating an Active Directory Home Lab utiliz
 
 <p align="center">
 Download Virtual Box and Install Windows 10 ISO on Virtual Machine (Domain Controller): <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/JBRG2jw" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
 <br />
 <br />
 Rename networks for Home Internet and Internal Network:  <br/>
