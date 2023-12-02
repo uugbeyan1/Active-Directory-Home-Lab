@@ -46,10 +46,14 @@ Install Remote Access, configure NAT and routing so the clients on Internal Netw
 <img src="https://imgur.com/YsRJwO2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Set DCHP on Domain Controller so when we create our second virtual machine it can automatically get an IP address:  <br/>
+Install DHCP:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Set DHCP scope on Domain Controller so when we create our second virtual machine, client computers can automatically get an IP address:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br /> 
 Run Powershell script for users on the Active Directory: <br/>
 <img src="https://imgur.com/pRJwIlX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
