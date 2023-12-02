@@ -50,7 +50,7 @@ Install DHCP:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Set DHCP scope on Domain Controller so when we create our second virtual machine, client computers can automatically get an IP address:  <br/>
+Set DHCP scope on Domain Controller so when we create our 2nd Virtual Machine, client computers can automatically get an IP address:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br /> 
@@ -61,7 +61,7 @@ Run Powershell script for users on the Active Directory: <br/>
  <img src="https://imgur.com/lKBrWxQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create another Virtual Machine to connect Internal Network (CLIENT1), join it to the domain, and log in with one of the user accounts:  <br/>
+Create a 2nd Virtual Machine to connect the Internal Network (CLIENT1) and join it to the domain:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
