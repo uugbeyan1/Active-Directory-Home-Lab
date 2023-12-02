@@ -39,7 +39,7 @@ Create Domain for Active Directory:  <br/>
 <img src="https://imgur.com/3GVmaLW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Install Remote Access, configure NAT and routting so the clients on Internal Network can connect to the internet through the Domain Controller:  <br/>
+Install Remote Access, configure NAT and routing so the clients on Internal Network can connect to the internet through the Domain Controller:  <br/>
 <img src="https://imgur.com/FdNXxIw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
