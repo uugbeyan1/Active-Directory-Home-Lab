@@ -19,7 +19,7 @@ This project consists of a basic step-by-step guide to creating an Active Direct
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Download Virtual Box and Install Windows 10 ISO on the first Virtual Machine (Domain Controller): <br/>
+Download Oracle Virtual Box and Install Windows 10 ISO on the first Virtual Machine (Domain Controller): <br/>
 <img src="https://imgur.com/jGnqwdC.png" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
 <br />
 <br />
@@ -39,11 +39,10 @@ Create Domain for Active Directory:  <br/>
 <img src="https://imgur.com/3GVmaLW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Install Remote Access so the clients on Internal Network can connect to the internet through the Domain Controller:  <br/>
+Install Remote Access, configure NAT and routting so the clients on Internal Network can connect to the internet through the Domain Controller:  <br/>
 <img src="https://imgur.com/FdNXxIw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Configure NAT:  <br/>
 <img src="https://imgur.com/YsRJwO2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
