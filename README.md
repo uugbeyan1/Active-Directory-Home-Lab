@@ -61,7 +61,7 @@ Run Powershell script for users on the Active Directory: <br/>
  <img src="https://imgur.com/lKBrWxQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create a 2nd Virtual Machine to connect the Internal Network (CLIENT1) and join it to the domain:  <br/>
+Create a 2nd Virtual Machine to connect to the Internal Network (CLIENT1) and join it to the domain:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
