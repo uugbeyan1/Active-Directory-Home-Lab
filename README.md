@@ -19,7 +19,7 @@ This project consists of a basic step-by-step guide to creating an Active Direct
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Download Oracle Virtual Box and Install Windows 10 ISO on the first Virtual Machine (Domain Controller): <br/>
+Download Oracle Virtual Box and Install Windows 10 ISO/Server on the first Virtual Machine (Domain Controller): <br/>
 <img src="https://imgur.com/jGnqwdC.png" height="80%" width="80%" alt="Active-Directory-Home-Lab"/>
 <br />
 <br />
