@@ -46,12 +46,8 @@ Install Remote Access, configure NAT and routing so the clients on Internal Netw
 <img src="https://imgur.com/YsRJwO2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Install DHCP:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Set DHCP scope on Domain Controller so when we create our 2nd Virtual Machine, client computers can automatically get an IP address:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install DHCP and Set DHCP scope on Domain Controller so when we create our 2nd Virtual Machine, client computers can automatically get an IP address:  <br/>
+<img src="https://imgur.com/YWEW3te.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br /> 
 Run Powershell script for users on the Active Directory: <br/>
@@ -62,7 +58,7 @@ Run Powershell script for users on the Active Directory: <br/>
 <br />
 <br />
 Create a 2nd Virtual Machine to connect to the Internal Network (CLIENT1) and join it to the domain:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/7qmVmAA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
